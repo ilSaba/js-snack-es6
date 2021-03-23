@@ -52,4 +52,5 @@ cats.forEach((item) => {
 
     // $('#cats').append(<li class="${colore}">${item.nome} è di colore ${item.colore}<i class="fas fa-ribbon"></i></li>);
 });
+
 });
